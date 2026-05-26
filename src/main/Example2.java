@@ -1,7 +1,7 @@
 package main;
 
 public class Example2 {
-    static void main() {
+    public static void main() {
         int x = 5;// x has local scope
 
         if (x == 5){ // block starts here
